@@ -1,0 +1,241 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #E5E5E5;
+}
+
+#container{  
+    margin-left: 30%;
+    margin-right: 30%;
+    position: relative;
+    bottom: 255px;
+}
+
+.col{
+    background-color: #853833;
+}
+/* 
+.sec{
+ color: #812c26;
+} */
+.amet{
+    position: relative;
+    bottom: 55%;
+    right: 22%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+ .orange{
+    background-image: url(image\ 35/strawberries-7367633_1280.jpg );
+    height: 390vh;
+}
+
+
+.jaune{
+    background-image: url(image\ 35/strawberries-7367633_1280.jpg );
+    height: 310vh;
+}
+.vert{
+    background-image: url(image\ 35/strawberries-7367633_1280.jpg );
+    height: 157vh;
+}
+
+
+.verte{
+    background-image: url(image\ 35/strawberries-7367633_1280.jpg );
+    height: 149vh;
+}
+
+
+on{
+    font-size: 3em;
+    color: black;
+    margin-left: 27%;
+}
+
+p1{
+    margin-left: 20%;
+    font-size: 3rem;
+    color: #fff;
+}
+
+#amet {
+    position: relative;
+    bottom: 5%;
+    left:10%;
+    width: 690px;
+    height: 60%;
+}
+.nav-item
+{
+  background-image: linear-gradient(to right,#490909,#490909);
+  height: 15vh; 
+  display: flex;
+  gap: 20px; 
+}
+h3{
+ text-align: center;
+    
+}
+h1{
+    color: black;
+}
+p{
+    color: red;
+    text-align: center;
+    font-size: 3rem;
+}
+#id{
+    background-color:#311919;
+    color: #fff;
+    position: relative;
+    bottom: 235px;
+}
+h2{
+    text-align: center;
+    height: 15vh;
+}
+.nav-item{
+    text-decoration: none;
+    color: white ;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+.card{
+   background-image: linear-gradient(to right, #F6E1C5,#F6E1C5)
+}
+
+.id{
+    background-color:#311919;
+    color: #fff;
+    position: relative;
+    bottom: 65px;
+}
+
+#ider{
+    background-color:#311919;
+    color: #fff; 
+}
+#vel{
+    position: relative;
+    bottom: 5%;
+    right:5%;    
+    width: 795px;
+    height: 20%;  
+}
+
+#tellus{
+    position: relative;
+    bottom: 85px;
+    right:5%;    
+    width: 795px;
+    height: 20%;  
+}
+
+#link{
+    position: relative;
+    bottom: 85px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#pink{
+    position: relative;
+    bottom: 26%;
+    left:27%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.sem{
+    position: relative;
+    bottom: 14%;
+    right: 25%;
+    margin-left: 33%;
+    margin-right: 33%  
+}
+#sem{
+    position: relative;
+    bottom: 5%;
+    right:5%;    
+    width: 795px;
+    height: 20%;  
+}
+
+#kitchen{
+    position: relative;
+    bottom: 279px;
+    left:25%;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+
+.kitchen{
+    position: relative;
+    bottom: 25%;
+    right:25%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+
+.teas{
+    position: relative;
+    bottom: 27%;
+    left: 20%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.dolor{
+    position: relative;
+    bottom: 14%;
+    right:20%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h4{
+    position: relative;
+    bottom: 56px;
+    left: 56%;
+} 
+
+
+h5{
+    position: relative;
+    bottom: 56px;
+    left: 66%;
+}
+
+#input{
+    color: red;
+} 
+label{
+    margin-right: 85%;
+}
+p3{
+    margin-left: 35%;
+    font-size: 2rem;
+}
+
+h6{
+    margin-left: 37%;
+}
+#css{
+    margin-left: 29%;
+    margin-right: 20%;
+}
+
+.home{
+    background-color: #853833;
+    
+}
+.input{
+    border-bottom: 1px solid black;
+    position: relative;
+    right: 20%;
+    margin-left: 25%;
+}
+ 
